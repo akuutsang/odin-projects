@@ -17,3 +17,6 @@ table {
 .stack{
     display: flex; justify-content: center;
 }   
+.mass{
+    border: 4px solid grey;
+}

@@ -1,0 +1,18 @@
+html{font-family: sans-serif;}
+
+table {
+ border-collapse: collapse;
+ border: 2px solid rgb(200,200,200);
+ letter-spacing: 1px;
+ font-size: 0.8rem;
+}
+td,
+th {
+ border: 1px solid rgb(190,190,190);
+ padding: 10px 20px;
+}
+.tuesday, .thursday{background-color: rgb(158, 228, 158);}
+.friday{
+    background-color: rgb(222, 171, 110);
+    border:4px solid rgb(207, 57, 82);
+}
